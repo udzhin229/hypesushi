@@ -57,7 +57,7 @@ function loadGoods(category) {
         for (var key in data) {
             if (!category || data[key].category === category) {
                 out+='<div class="sushi-block">';
-                out+='<img src="'+data[key].img+'" loading="lazy">';
+                out+='<img src="'+data[key].img+'" loading="lazy" alt="hype-sushi">';
                 out+='<div class="sushi-title">'+data[key].title+'</div>';
                 out+='<div class="sushi-text">'+data[key].text+'</div>';
                 out+='<div class="sushi-down">';
@@ -116,7 +116,7 @@ function showMiniCart() {
         var out = '';
         for (var w in cart) {
             out+='<div class="element-o">';
-            out+='<img src="'+goods[w].img+'" loadin="lazy">';
+            out+='<img src="'+goods[w].img+'" loadin="lazy" alt="hype-sushi">';
             out+='<div class="el-title-all">';
             out+='<div class="el-title">'+goods[w].title+'</div>';
             out+='<div class="el-weight">'+goods[w].weight+'</div>';
