@@ -1,0 +1,252 @@
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+form {
+    width: 100%;
+    max-width: 913px;
+    padding: 80px 0 100px;
+    margin: 0 auto;
+}
+form .title {
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 47px;
+    color: #FFFFFF;
+    text-align: center;
+}
+form .form-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+form .form-block .block {
+    width: 100%;
+    max-width: 318px;
+}
+form label {
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    display: block;
+    margin: 30px 0 10px;
+}
+.c2 {
+    display: none;
+}
+form input {
+    padding: 0 20px;
+    width: 100%;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    outline: unset;
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.85);
+}
+form input[type=number]::-webkit-outer-spin-button, form input[type=number]::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+form input[type="time"]::-webkit-calendar-picker-indicator {
+    filter: brightness(0) invert(1);
+}
+form textarea {
+    resize: none;
+    padding-left: 20px;
+    width: 100%;
+    height: 144px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    outline: unset;
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.85);
+}
+form select {
+    padding-left: 20px;
+    width: 100%;
+    height: 50px;
+    background: rgb(18, 18, 18);
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    outline: unset;
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.85);
+}
+form label[for="deliv"] {
+    display: flex;
+    align-items: center;
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+form input[type="radio"] {
+    width: 11px;
+    height: 11px;
+    border: 1px solid #FFFFFF;
+    margin: 0 10px 0 0;
+}
+form input[type="submit"] {
+    display: block;
+    margin: 55px auto 30px;
+    width: 100%;
+    max-width: 508px;
+    height: 79px;
+    background: #EB1C23;
+    border-radius: 6px;
+    font-family: var(--font-gilr);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    outline: unset;
+    cursor: pointer;
+}
+form .under-submit {
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    max-width: 454px;
+    align-items: center;
+    justify-content: space-between;
+}
+@media (max-width: 1440px){
+    form .title {
+        font-size: 20.2667px;
+        line-height: 25px;
+    }
+    form {
+        padding: 43px 0 55px;
+        max-width: 487px;
+    }
+    form label {
+        font-size: 12.8px;
+        line-height: 16px;
+        margin: 16px 0 7px;
+    }
+    form .form-block .block {
+        max-width: 170px;
+    }
+    form input {
+        height: 27.73px;
+        padding-left: 10px;
+        font-size: 9.6px;
+        line-height: 11px;
+    }
+    form select {
+        height: 27.73px;
+        padding-left: 10px;
+        font-size: 9.6px;
+        line-height: 11px;
+    }
+    form label[for="deliv"] {
+        font-size: 10.6667px;
+        line-height: 13px;
+        margin-top: 8px;
+    }
+    form input[type="radio"] {
+        width: 6px;
+        height: 6px;
+    }
+    form textarea {
+        padding-left: 10px;
+        height: 77px;
+    }
+    form input[type="submit"] {
+        max-width: 270px;
+        font-size: 12.8px;
+        line-height: 16px;
+        margin: 30px auto 16px;
+        height: 42px;
+    }
+    form .under-submit {
+        max-width: 240px;
+    }
+}
+@media (max-width: 768px) {
+    .c1 {
+        display: none;
+    }
+    .c2 {
+        display: block;
+    }
+    form .title {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    form {
+        padding: 42px 0 67px;
+        max-width: 400px;
+    }
+    form label {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 20px 0 10px;
+    }
+    form .form-block .block {
+        max-width: 144px;
+    }
+    form input {
+        height: 37px;
+        padding-left: 10px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    form select {
+        height: 37px;
+        padding-left: 10px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    form label[for="deliv"] {
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 12px;
+    }
+    form input[type="radio"] {
+        width: 11px;
+        height: 11px;
+    }
+    form textarea {
+        padding-left: 10px;
+        height: 111px;
+    }
+    form input[type="submit"] {
+        max-width: 246px;
+        font-size: 16px;
+        line-height: 20px;
+        margin: 50px auto 20px;
+        height: 49px;
+    }
+    form .under-submit {
+        max-width: 290px;
+    }
+}

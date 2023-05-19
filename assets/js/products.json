@@ -1,0 +1,890 @@
+{
+    "1" : {
+        "img": "assets/images/image-prod/webp/rainbow.webp",
+        "title": "Веселка",
+        "text": "Креветка, лосось, вугор, тунець, огірок, сир філадельфія, кунжут, унагі",
+        "price": "205",
+        "weight": "285г",
+        "category": "roll"
+    },
+    "2" :{
+        "img": "assets/images/image-prod/webp/malaiziya.webp",
+        "title": "Малаїзія",
+        "text": "Сн. краб, філадельфія, огірок, майонез, рисова бумага, харчовий барвник, тунець",
+        "price": "215",
+        "weight": "300г",
+        "category": "roll"
+    },
+    "3" :{
+        "img": "assets/images/image-prod/webp/cheese.webp",
+        "title": "Чиз рол",
+        "text": "Сир філадельфія, сир фета, вугор, сир чеддер",
+        "price": "189",
+        "weight": "260г",
+        "category": "roll"
+    },
+    "4" :{
+        "img": "assets/images/image-prod/webp/kredo.webp",
+        "title": "Кредо",
+        "text": "Тунець, сир філадельфія, ікра масаго, авокадо, чедер, унагі, спайс",
+        "price": "245",
+        "weight": "345г",
+        "category": "roll"
+    },
+    "5" :{
+        "img": "assets/images/image-prod/webp/filadel.webp",
+        "title": "Філадельфія",
+        "text": "Лосось, сир філадельфія, огірок",
+        "price": "205",
+        "weight": "300г",
+        "category": "roll"
+    },
+    "6" :{
+        "img": "assets/images/image-prod/webp/togarashi.webp",
+        "title": "Тогараші",
+        "text": "Креветка, лосось, сніжний краб, авокадо, огірок, манго юзу, спайс, нитки чилі мікрогрін",
+        "price": "299",
+        "weight": "345г",
+        "category": "roll"
+    },
+    "7" :{
+        "img": "assets/images/image-prod/webp/unakari.webp",
+        "title": "Унакарі",
+        "text": "Авокадо, креветка королівська, сир філадельфія, огірок",
+        "price": "205",
+        "weight": "290г",
+        "category": "roll"
+    },
+    "8" :{
+        "img": "assets/images/image-prod/webp/nogano.webp",
+        "title": "Ногано",
+        "text": "Унагі, креветка королівська, кунжут, сир філадельфія, огірок, ікра тобіко",
+        "price": "179",
+        "weight": "265г",
+        "category": "roll"
+    },
+    "9" :{
+        "img": "assets/images/image-prod/webp/tako.webp",
+        "title": "Тако",
+        "text": "Восьминіг, сир філадельфія, ікра тобіко, огірок",
+        "price": "179",
+        "weight": "245г",
+        "category": "roll"
+    },
+    "10" :{
+            "img": "assets/images/image-prod/webp/himicu.webp",
+            "title": "Хіміцу",
+            "text": "Сир філадельфія, апельсин, лосось, ікра масаго",
+            "price": "189",
+            "weight": "295г",
+            "category": "roll"
+        },
+    "11" :{
+            "img": "assets/images/image-prod/webp/fibonachi.webp",
+            "title": "Фібоначі",
+            "text": "Лосось, сніжний краб, філадельфія, огірок, теріяки, харчовий барвник",
+            "price": "199",
+            "weight": "280г",
+            "category": "roll"
+        },
+    "12" :{
+            "img": "assets/images/image-prod/webp/kalifornia.webp",
+            "title": "Каліфорнія",
+            "text": "Лосось, сир філадельфія, огірок, ікра масаго",
+            "price": "205",
+            "weight": "290г",
+            "category": "roll"
+        },
+    "13" :{
+            "img": "assets/images/image-prod/webp/kimuru.webp",
+            "title": "Кімуру",
+            "text": "Креветка королівська, огірок, сир філадельфія",
+            "price": "205",
+            "weight": "285г",
+            "category": "roll"
+        },
+    "14" :{
+            "img": "assets/images/image-prod/webp/kanada.webp",
+            "title": "Канада",
+            "text": "Вугор, сир філадельфія, огірок, кунжут, соус унагі",
+            "price": "219",
+            "weight": "285г",
+            "category": "roll"
+        },
+    "15" :{
+            "img": "assets/images/image-prod/webp/kacibushi.webp",
+            "title": "Кацібуші",
+            "text": "Мідії, огірок, омлет тамаго, сир філадельфія, стружка тунця, спайс соус",
+            "price": "169",
+            "weight": "310г",
+            "category": "roll"
+        },
+    "16" :{
+            "img": "assets/images/image-prod/webp/bekon.webp",
+            "title": "Чікен бекон",
+            "text": "Бекон, копчена грудка, огірок, сир філадельфія",
+            "price": "179",
+            "weight": "310г",
+            "category": "roll"
+        },
+    "17" :{
+            "img": "assets/images/image-prod/webp/okasi.webp",
+            "title": "Окасі",
+            "text": "Лосось, тунець, сир філадельфія, огірок",
+            "price": "205",
+            "weight": "285г",
+            "category": "roll"
+        },
+    "18" :{
+            "img": "assets/images/image-prod/webp/shichiro.webp",
+            "title": "Шичіро",
+            "text": "Креветка королівська, вершковий сир, сир філадельфія, перез, соус шрирача",
+            "price": "185",
+            "weight": "255г",
+            "category": "roll"
+        },
+    "19" :{
+            "img": "assets/images/image-prod/webp/fish.webp",
+            "title": "Фіш",
+            "text": "Лосось, вугор, огірок, кунжут, унагі, масаго, місо сус, стружка тунця, мікрогрін",
+            "price": "320",
+            "weight": "335г",
+            "category": "roll"
+        },
+    "20" :{
+            "img": "assets/images/image-prod/webp/krabs.webp",
+            "title": "Мr. Крабс",
+            "text": "Креветка, тунець, сніжний краб, 4 соуси, кріспі, тогараші, масаго, огірок, мікрогрін",
+            "price": "279",
+            "weight": "360г",
+            "category": "roll"
+        },
+    "21" :{
+            "img": "assets/images/image-prod/webp/kaha.webp",
+            "title": "Black Кана",
+            "text": "Сир філадельфія, вугор, огірок, унагі соус",
+            "price": "320",
+            "weight": "325г",
+            "category": "roll"
+        },
+    "22" :{
+            "img": "assets/images/image-prod/webp/fila.webp",
+            "title": "Black Філа",
+            "text": "Сир філадельфія, лосось, огірок",
+            "price": "320",
+            "weight": "355г",
+            "category": "roll"
+        },
+    "23" :{
+            "img": "assets/images/image-prod/webp/fune.webp",
+            "title": "Фуне",
+            "text": "Тунець, мідії, помідор, сир філадельфія",
+            "price": "179",
+            "weight": "265г",
+            "category": "roll"
+        },
+    "24" :{
+            "img": "assets/images/image-prod/webp/karma.webp",
+            "title": "Карма",
+            "text": "Сир філадельфія, омлет тамаго, вугор, унагі соус",
+            "price": "250",
+            "weight": "260г",
+            "category": "roll"
+        },
+    "25" :{
+            "img": "assets/images/image-prod/webp/saymon.webp",
+            "title": "Саймон",
+            "text": "Лосось, креветка, тунець, спайс, сир філадельфія, стружка тунця, мікрогрін",
+            "price": "269",
+            "weight": "300г",
+            "category": "roll"
+        },
+    "26" :{
+            "img": "assets/images/image-prod/webp/udzava.webp",
+            "title": "Юдзава",
+            "text": "Креветка, авокадо, сніжний краб, сир філадельфія, соус манго юзу",
+            "price": "215",
+            "weight": "290г",
+            "category": "roll"
+        },
+    "27" :{
+            "img": "assets/images/image-prod/webp/kima.webp",
+            "title": "Black Кіма",
+            "text": "Сир філадельфія, королівска креветка, огірок, ікра тобіко",
+            "price": "320",
+            "weight": "340г",
+            "category": "roll"
+        },
+    "28" :{
+            "img": "assets/images/image-prod/webp/kalifa.webp",
+            "title": "Black Каліфа",
+            "text": "Сир філадельфія, лосось, ікра масаго, огірок",
+            "price": "320",
+            "weight": "335г",
+            "category": "roll"
+        },
+    "29" :{
+            "img": "assets/images/image-prod/webp/maguro.webp",
+            "title": "Магуро",
+            "text": "Кальмар, тунець, кунжут, чука, сир філадельфія",
+            "price": "185",
+            "weight": "260г",
+            "category": "roll"
+        },
+    "30" :{
+            "img": "assets/images/image-prod/webp/gaydzin.webp",
+            "title": "Гайдзін",
+            "text": "Восьминіг, вугор, сир філадельфія, перець болгарський, соус теріяки",
+            "price": "220",
+            "weight": "265г",
+            "category": "roll"
+        },
+    "31" :{
+            "img": "assets/images/image-prod/webp/ebimaksi.webp",
+            "title": "Ебімаксі",
+            "text": "Апельсин, креветка, ікра манго, сир філадельфія, креветка королівська",
+            "price": "195",
+            "weight": "275г",
+            "category": "roll"
+        },
+    "32" :{
+            "img": "assets/images/image-prod/webp/hype.webp",
+            "title": "Хайп",
+            "text": "Лосось, червона ікра, тамаго, огірок, сир філадельфія",
+            "price": "320",
+            "weight": "315г",
+            "category": "roll"
+        },
+    "33" :{
+            "img": "assets/images/image-prod/webp/sakura.webp",
+            "title": "Сакура",
+            "text": "Сир філадельфія, огірок, лосось, спайс соус, ікра тобіко",
+            "price": "205",
+            "weight": "250г",
+            "category": "roll"
+        },
+    "34" :{
+            "img": "assets/images/image-prod/webp/green.webp",
+            "title": "Грін",
+            "text": "Ікра масаго, сир філадельфія, тамаго, креветка королівська, авокадо, спайс",
+            "price": "220",
+            "weight": "280г",
+            "category": "roll"
+        },
+    "35" :{
+            "img": "assets/images/image-prod/webp/pekin.webp",
+            "title": "Пекін",
+            "text": "Сніжний краб, омлет тамаго, сир філадельфія, ікра масаго",
+            "price": "169",
+            "weight": "260г",
+            "category": "roll"
+        },
+    "36" :{
+            "img": "assets/images/image-prod/webp/hiyashi.webp",
+            "title": "Хіяши",
+            "text": "Мідії, сир філадельфія, кунжут, чука, солодкий чилі",
+            "price": "179",
+            "weight": "300г",
+            "category": "roll"
+        },
+    "37" :{
+            "img": "assets/images/image-prod/webp/cunami.webp",
+            "title": "Цунамі",
+            "text": "Кальмар, сир філадельфія, ікра тобіко, огірок, ікра масаго",
+            "price": "179",
+            "weight": "280г",
+            "category": "roll"
+        },
+    "38" :{
+            "img": "assets/images/image-prod/webp/maruyaki.webp",
+            "title": "Маруякі",
+            "text": "Мідії, сир філадельфія, огірок, ікра масаго, помідор, соус унагі",
+            "price": "195",
+            "weight": "295г",
+            "category": "roll"
+        },
+    "39" :{
+            "img": "assets/images/image-prod/webp/fenix.webp",
+            "title": "Фенікс",
+            "text": "Тунець, авокадо, тамаго, стружка тунця, лист салату, соус шрірача",
+            "price": "205",
+            "weight": "265г",
+            "category": "roll"
+        },
+    "40" :{
+            "img": "assets/images/image-prod/webp/sifudu.webp",
+            "title": "Сіфуду",
+            "text": "Омлет тамаго, сніжний краб, кальмар, соус спайс",
+            "price": "179",
+            "weight": "255г",
+            "category": "roll"
+        },
+    "41" :{
+            "img": "assets/images/image-prod/webp/spice.webp",
+            "title": "Бостон спайс",
+            "text": "Вугор, ікра масаго, сир філадельфія, огірок, соус спайс",
+            "price": "179",
+            "weight": "245г",
+            "category": "roll"
+        },
+    "42" :{
+            "img": "assets/images/image-prod/webp/fidji.webp",
+            "title": "Фіджи",
+            "text": "Мідії, омлет тамаго, огірок, сир філадельфія, соус унагі",
+            "price": "169",
+            "weight": "270г",
+            "category": "roll"
+        },
+        "43" :{
+            "img": "assets/images/image-prod/webp/sand-orig.webp",
+            "title": "Сенд. Орігамі",
+            "text": "Чеддер, креветка, лист салату, сир філадельфія, огірок",
+            "price": "205",
+            "weight": "275г",
+            "category": "send"
+        },
+        "44" :{
+            "img": "assets/images/image-prod/webp/sand-tun.webp",
+            "title": "Сенд. Тунеякі",
+            "text": "Тунець, ікра тобіко, огірок, сир філадельфія, лист салату",
+            "price": "205",
+            "weight": "300г",
+            "category": "send"
+        },
+        "45" :{
+            "img": "assets/images/image-prod/webp/sand-fil.webp",
+            "title": "Сенд. Філадельфія",
+            "text": "Лосось, сир філадельфія, лист салату, огірок, кунжут",
+            "price": "205",
+            "weight": "295г",
+            "category": "send"
+        },
+        "46" :{
+            "img": "assets/images/image-prod/sets/set1.webp",
+            "title": "Сет 1",
+            "text": "Філадельфія, кімуру, чікен бекон, тако",
+            "price": "755",
+            "weight": "1140г",
+            "category": "set"
+        },
+        "47" :{
+            "img": "assets/images/image-prod/sets/set2.webp",
+            "title": "Сет 2",
+            "text": "Кацібуші, ногано, сакура, тако",
+            "price": "725",
+            "weight": "1070г",
+            "category": "set"
+        },
+        "48" :{
+            "img": "assets/images/image-prod/sets/set3.webp",
+            "title": "Сет 3",
+            "text": "Фіджи, кацібуші, ногано, фуне, бостон спайс",
+            "price": "875",
+            "weight": "1355г",
+            "category": "set"
+        },
+        "49" :{
+            "img": "assets/images/image-prod/sets/set4.webp",
+            "title": "Сет 4",
+            "text": "Філадельфія, маруякі, каліфорнія, канада",
+            "price": "825",
+            "weight": "1170г",
+            "category": "set"
+        },
+        "50" :{
+            "img": "assets/images/image-prod/sets/set5.webp",
+            "title": "Сет 5",
+            "text": "Хайп, тако, сіфуду, чиз рол, хіміцу, цунамі",
+            "price": "1225",
+            "weight": "1650г",
+            "category": "set"
+        },
+        "51" :{
+            "img": "assets/images/image-prod/sets/set6.webp",
+            "title": "Сет 6",
+            "text": "Black Кана, Black Філа, Black Каліфа, Black Кіма",
+            "price": "1275",
+            "weight": "1355г",
+            "category": "set"
+        },
+        "52" :{
+            "img": "assets/images/image-prod/sets/set7.webp",
+            "title": "Сет 7",
+            "text": "Кімуру, окасі, канада, гайдзін, філаделіфія, сіфуду, маруякі, фуне",
+            "price": "1599",
+            "weight": "2235г",
+            "category": "set"
+        },
+        "53" :{
+            "img": "assets/images/image-prod/sets/set8.webp",
+            "title": "Сет 8",
+            "text": "Кацібуші, фуне, фіджи, філадельфія",
+            "price": "725",
+            "weight": "1145г",
+            "category": "set"
+        },
+        "54" :{
+            "img": "assets/images/image-prod/sets/set9.webp",
+            "title": "Сет 9",
+            "text": "Юдзава, кредо, саймон, Mr. Крабс",
+            "price": "999",
+            "weight": "1295г",
+            "category": "set"
+        },
+        "55" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (лосось)",
+            "text": "З лососем",
+            "price": "90",
+            "weight": "120г",
+            "category": "maki"
+        },  
+        "56" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (тунець)",
+            "text": "З тунцем",
+            "price": "90",
+            "weight": "120г",
+            "category": "maki"
+        },  
+        "57" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (вугор)",
+            "text": "З вугром",
+            "price": "99",
+            "weight": "115г",
+            "category": "maki"
+        },  
+        "58" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (креветка)",
+            "text": "З креветкою",
+            "price": "95",
+            "weight": "115г",
+            "category": "maki"
+        },  
+        "59" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (копч. грудка)",
+            "text": "З копченою грудкою",
+            "price": "75",
+            "weight": "120г",
+            "category": "maki"
+        },  
+        "60" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (огірок)",
+            "text": "З огірком",
+            "price": "40",
+            "weight": "115г",
+            "category": "maki"
+        },  
+        "61" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (тамаго)",
+            "text": "З тамаго",
+            "price": "60",
+            "weight": "115г",
+            "category": "maki"
+        },  
+        "62" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (сн. краб)",
+            "text": "Зі сніжним крабом",
+            "price": "70",
+            "weight": "120г",
+            "category": "maki"
+        },  
+        "63" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (авокадо)",
+            "text": "З авокадо",
+            "price": "80",
+            "weight": "115г",
+            "category": "maki"
+        },  
+        "64" :{
+            "img": "assets/images/image-prod/maki.webp",
+            "title": "Маки роли (чука)",
+            "text": "З чукою",
+            "price": "60",
+            "weight": "120г",
+            "category": "maki"
+        },
+        "65" :{
+            "img": "assets/images/image-prod/salat.webp",
+            "title": "Салат хіяши (унагі)",
+            "text": "Чука, кунжут, соус унагі",
+            "price": "145",
+            "weight": "185г",
+            "category": "salat"
+        },
+        "66" :{
+            "img": "assets/images/image-prod/hot/kini.webp",
+            "title": "Кіні темпура",
+            "text": "Сніжний краб, ікра тобіко, сир вершковий, копчена курка",
+            "price": "195",
+            "weight": "285г",
+            "category": "hot-roll"
+        },
+        "67" :{
+            "img": "assets/images/image-prod/hot/black.webp",
+            "title": "Black темпура",
+            "text": "Тунець, лосось, сир твердий, чорнило каракатиці",
+            "price": "195",
+            "weight": "265г",
+            "category": "hot-roll"
+        },
+        "68" :{
+            "img": "assets/images/image-prod/hot/meduza.webp",
+            "title": "Медуза",
+            "text": "Бекон, сир філадельфія, помідор, харчовий барвник, соус солодкий чилі",
+            "price": "185",
+            "weight": "300г",
+            "category": "hot-roll"
+        },
+        "69" :{
+            "img": "assets/images/image-prod/hot/fuku.webp",
+            "title": "Фукуяма",
+            "text": "Лосось, креветка королівська, сир філадельфія",
+            "price": "195",
+            "weight": "275г",
+            "category": "hot-roll"
+        },
+        "70" :{
+            "img": "assets/images/image-prod/hot/kali.webp",
+            "title": "Калі темпура",
+            "text": "Лосось, огірок, сир філадельфія, ікра масаго",
+            "price": "195",
+            "weight": "290г",
+            "category": "hot-roll"
+        },
+        "71" :{
+            "img": "assets/images/image-prod/hot/asahi.webp",
+            "title": "Асахі",
+            "text": "Вугор, помідор, сир філадельфія, соус унагі",
+            "price": "195",
+            "weight": "295г",
+            "category": "hot-roll"
+        },
+        "72" :{
+            "img": "assets/images/image-prod/hot/amondo.webp",
+            "title": "Амондо",
+            "text": "Мигдаль, сир філадельфія, кунжут, сир хохланд, фета",
+            "price": "185",
+            "weight": "340г",
+            "category": "hot-roll"
+        },
+        "73" :{
+            "img": "assets/images/image-prod/hot/miss.webp",
+            "title": "Міссурі",
+            "text": "Бекон, ікра тобіко, томаго, лист салату, огірок, вершковий сир",
+            "price": "175",
+            "weight": "315г",
+            "category": "hot-roll"
+        },
+        "74" :{
+            "img": "assets/images/image-prod/hot/horu.webp",
+            "title": "Хору",
+            "text": "Тунець, сир філадельфія, авокадо, теріяки",
+            "price": "235",
+            "weight": "320г",
+            "category": "hot-roll"
+        },
+        "75" :{
+            "img": "assets/images/image-prod/hot/spice.webp",
+            "title": "Темпура спайс",
+            "text": "Вугор, лист салату, чедр, огірок, спайс соус",
+            "price": "235",
+            "weight": "310г",
+            "category": "hot-roll"
+        },
+        "76" :{
+            "img": "assets/images/image-prod/sous/unagi.png",
+            "title": "Унагі",
+            "text": "",
+            "price": "30",
+            "weight": "30г",
+            "category": "sous"
+        },
+        "77" :{
+            "img": "assets/images/image-prod/sous/spici.png",
+            "title": "Спайс",
+            "text": "",
+            "price": "35",
+            "weight": "30г",
+            "category": "sous"
+        },
+        "78" :{
+            "img": "assets/images/image-prod/sous/teriyaki.png",
+            "title": "Теріяки",
+            "text": "",
+            "price": "35",
+            "weight": "30г",
+            "category": "sous"
+        },
+        "79" :{
+            "img": "assets/images/image-prod/sous/shri.png",
+            "title": "Шрирача",
+            "text": "",
+            "price": "35",
+            "weight": "30г",
+            "category": "sous"
+        },
+        "80" :{
+            "img": "assets/images/image-prod/sous/chili.png",
+            "title": "Солодкий чилі",
+            "text": "",
+            "price": "30",
+            "weight": "30г",
+            "category": "sous"
+        },
+        "81" :{
+            "img": "assets/images/image-prod/sushi.webp",
+            "title": "Суші (лосось)",
+            "text": "З лососем",
+            "price": "60",
+            "weight": "45г",
+            "category": "sushi"
+        },
+        "82" :{
+            "img": "assets/images/image-prod/sushi.webp",
+            "title": "Суші (тунець)",
+            "text": "З тунцем",
+            "price": "60",
+            "weight": "45г",
+            "category": "sushi"
+        },
+        "83" :{
+            "img": "assets/images/image-prod/sushi.webp",
+            "title": "Суші (вугор)",
+            "text": "З вугром",
+            "price": "60",
+            "weight": "45г",
+            "category": "sushi"
+        },
+        "84" :{
+            "img": "assets/images/image-prod/sushi.webp",
+            "title": "Суші (креветка)",
+            "text": "З креветкою",
+            "price": "60",
+            "weight": "45г",
+            "category": "sushi"
+        },
+        "85" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (лосось)",
+            "text": "З лососем",
+            "price": "59",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "86" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (тунець)",
+            "text": "З тунцем",
+            "price": "59",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "87" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (вугор)",
+            "text": "З вугром",
+            "price": "59",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "88" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (креветка)",
+            "text": "З креветкою",
+            "price": "59",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "89" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (ікра тобіко)",
+            "text": "З ікрою тобіко",
+            "price": "69",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "90" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (ікра червона)",
+            "text": "З ікрою червоною",
+            "price": "59",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "91" :{
+            "img": "assets/images/image-prod/gunk.webp",
+            "title": "Гункани (чука)",
+            "text": "З чукою",
+            "price": "49",
+            "weight": "45г",
+            "category": "gunk"
+        },
+        "92" :{
+            "img": "assets/images/image-prod/spring.webp",
+            "title": "Спрінг роли (лосось)",
+            "text": "Основа: рисовий папір, лист салату, рис, сир філадельфія, болгарський перець, огірок",
+            "price": "135",
+            "weight": "100г",
+            "category": "spring-roll"
+        },
+        "93" :{
+            "img": "assets/images/image-prod/spring.webp",
+            "title": "Спрінг рол (тунець)",
+            "text": "Основа: рисовий папір, лист салату, рис, сир філадельфія, болгарський перець, огірок",
+            "price": "135",
+            "weight": "100г",
+            "category": "spring-roll"
+        },
+        "94" :{
+            "img": "assets/images/image-prod/spring.webp",
+            "title": "Спрінг рол (вугор)",
+            "text": "Основа: рисовий папір, лист салату, рис, сир філадельфія, болгарський перець, огірок",
+            "price": "150",
+            "weight": "100г",
+            "category": "spring-roll"
+        },
+        "95" :{
+            "img": "assets/images/image-prod/spring.webp",
+            "title": "Спрінг рол (креветка)",
+            "text": "Основа: рисовий папір, лист салату, рис, сир філадельфія, болгарський перець, огірок",
+            "price": "150",
+            "weight": "100г",
+            "category": "spring-roll"
+        },
+        "96" :{
+            "img": "assets/images/image-prod/spring.webp",
+            "title": "Спрінг рол (сн. краб)",
+            "text": "Основа: рисовий папір, лист салату, рис, сир філадельфія, болгарський перець, огірок",
+            "price": "135",
+            "weight": "100г",
+            "category": "spring-roll"
+        },
+        "97" :{
+            "img": "assets/images/image-prod/salat.webp",
+            "title": "Салат хіяши (спайс)",
+            "text": "Чука, кунжут, соус спайс",
+            "price": "145",
+            "weight": "185г",
+            "category": "salat"
+        },
+        "98" :{
+            "img": "assets/images/image-prod/salat.webp",
+            "title": "Салат хіяши (теріяки)",
+            "text": "Чука, кунжут, соус теріяки",
+            "price": "145",
+            "weight": "185г",
+            "category": "salat"
+        },
+        "99" :{
+            "img": "assets/images/image-prod/salat.webp",
+            "title": "Салат хіяши (шрирача)",
+            "text": "Чука, кунжут, соус шрирача",
+            "price": "145",
+            "weight": "185г",
+            "category": "salat"
+        },
+        "100" :{
+            "img": "assets/images/image-prod/salat.webp",
+            "title": "Салат хіяши (сол. чилі)",
+            "text": "Чука, кунжут, соус солодкий чилі",
+            "price": "145",
+            "weight": "185г",
+            "category": "salat"
+        },
+        "101" : {
+            "img": "assets/images/image-prod/new-goods/poke-los.webp",
+            "title": "Поке Боул з лососем",
+            "text": "Тар тар лосось, сир філадельфія, огірок, помідор, батат, спайс, цибуля зелена, кунжут",
+            "price": "299",
+            "weight": "410г",
+            "category": "poka"
+        },
+        "102" : {
+            "img": "assets/images/image-prod/new-goods/poke-kur.webp",
+            "title": "Поке Боул з куркою",
+            "text": "Курка, рис, сир філадельфія, огірок, солодкий чилі, помідор, батат, цибуля зелена, спайс, кунжут",
+            "price": "250",
+            "weight": "415г",
+            "category": "poka"
+        },
+        "103" : {
+            "img": "assets/images/image-prod/new-goods/poke-krev.webp",
+            "title": "Поке Боул з креветкою",
+            "text": "Креветка королівська, рис, сир філадельфія, огірок, манго юзу, помідор, норі, кунжут, апельсин",
+            "price": "299",
+            "weight": "410г",
+            "category": "poka"
+        },
+        "104" : {
+            "img": "assets/images/image-prod/new-goods/ramen.webp",
+            "title": "Рамен",
+            "text": "Фарш свинячо-яловичий, локшина рамен, цибуля зелена, яйце, батат, кріспі, бульйон, норі, місо, хондаші, пекінська капуста",
+            "price": "250",
+            "weight": "650г",
+            "category": "soup"
+        },
+        "105" : {
+            "img": "assets/images/image-prod/new-goods/tom.webp",
+            "title": "Том ям",
+            "text": "Креветка королівська, молоко кокосове, гриби, бульйон, пекінська капуста, помідори, локшина пшенична, кунжут, цибуля зелена",
+            "price": "250",
+            "weight": "360г",
+            "category": "soup"
+        },
+        "106" : {
+            "img": "assets/images/image-prod/new-goods/ramen-kor.webp",
+            "title": "Рамен кореанський",
+            "text": "Фарш свинячо-яловичий, локшина пшенична, пекінська капуста, цибуля зелена, кукурудза, кріспі, бульйон, самбал, місо, тагораші, помідори, батат, кунжут",
+            "price": "250",
+            "weight": "670г",
+            "category": "soup"
+        },
+        "107" : {
+            "img": "assets/images/image-prod/new-goods/lap-kur.webp",
+            "title": "Локшина з куркою",
+            "text": "Локшина рисова, курка, кукурудза, петрушка, соус хайп, арахіс, спаржа, перець",
+            "price": "325",
+            "weight": "470г",
+            "category": "lapsha"
+        },
+        "108" : {
+            "img": "assets/images/image-prod/new-goods/lap-ov.webp",
+            "title": "Локшина овочева",
+            "text": "Локшина рисова, цибуля, спаржа, соус хайп, кукурудза, перець, петрушка, помідори",
+            "price": "275",
+            "weight": "430г",
+            "category": "lapsha"
+        },
+        "109" : {
+            "img": "assets/images/image-prod/new-goods/lap-los.webp",
+            "title": "Локшина з лососем",
+            "text": "Лосось, локшина рисова, соус хайп, перець, цибуля марс, спаржа, петрушка, помідори",
+            "price": "399",
+            "weight": "500г",
+            "category": "lapsha"
+        },
+        "110" : {
+            "img": "assets/images/image-prod/new-goods/kart.webp",
+            "title": "Картопля ямато",
+            "text": "Картопля, бекон, цибуля, яйце, петрушка, цибуля зелена, кунжут, помідори",
+            "price": "155",
+            "weight": "450г",
+            "category": "potato"
+        },
+        "111" : {
+            "img": "assets/images/image-prod/new-goods/des.webp",
+            "title": "Десерт дезато",
+            "text": "Рис, молоко кокосове, цукор, фрукти за сезоном",
+            "price": "175",
+            "weight": "400г",
+            "category": "desert"
+        }
+}
